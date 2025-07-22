@@ -1,0 +1,6 @@
+Step,What to Do
+Enable Developer Tab,File > Options > Customize Ribbon > Check 'Developer'
+Record First Macro,Developer > Record Macro > Format Header > Stop Recording
+View the Code (ALT + F11),ALT + F11 > View Module1 > See code
+Run Macro with ALT + F8,ALT + F8 > Select macro > Run
+Bonus: Add Macro Button,Developer > Insert > Button > Assign Macro
